@@ -81,16 +81,5 @@ git clone https://github.com/yourusername/12214300.git
 
 # Step 2: Navigate to frontend folder
 cd 12214300/frontend
+![Output Screenshot](https://ik.imagekit.io/eufh68vve/Screenshot%202025-07-14%20132604.png?updatedAt=1752479902005)
 
-# Step 3: Install dependencies
-npm install
-
-# Step 4: Start the development server
-npm run dev
-
-Logging Token & API Note
-All API calls to the log endpoint (/logs) are authenticated using a protected bearer token. The token is securely used within the logger and is not exposed elsewhere in the code.
-
-Roll No: 12214300
-
-Logger and frontend have been kept in separate folders as instructed.
